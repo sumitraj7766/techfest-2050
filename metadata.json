@@ -1,0 +1,6 @@
+{
+  "name": "Techfest 3D Portal",
+  "description": "An interactive 3D website for Techfest, displaying immersive scroll effects, high-fidelity WebGL particles, interactive gadgets, and dynamic neon cyber-visuals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
